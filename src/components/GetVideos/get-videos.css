@@ -1,0 +1,5 @@
+.yt-link:link,
+.yt-link:visited {
+  text-decoration: inherit;
+  color: inherit;
+}
